@@ -12,7 +12,6 @@ setup(
     description='gym_surfacecode',
     long_description=README,
     long_description_content_type='text/markdown',
-    license='BSD-3",
     package_dir={'gym_surfacecode'},
     package_data={'gym_surfacecode': ['envs/referee_decoder/X_decoder','envs/referee_decoder/DP_decoder']},
     classifiers=[
