@@ -9,7 +9,7 @@ README = (directory / "README.md").read_text()
 setup(
     name='gym_surfacecode',
     version='0.0.1',
-    description='gym_surfacecode",
+    description='gym_surfacecode',
     long_description=README,
     long_description_content_type='text/markdown',
     license='BSD-3",
